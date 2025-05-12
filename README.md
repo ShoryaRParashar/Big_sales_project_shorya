@@ -1,4 +1,5 @@
 Big Sales Prediction
+
 This project focuses on forecasting significant sales figures using a Random Forest Regressor. The objective is to build a reliable and accurate machine learning model that predicts sales based on historical data and key features such as store size, location, and promotional activities.
 
 📌 Key Components
@@ -12,6 +13,7 @@ Performance Assessment: Evaluating the model using metrics like Mean Absolute Er
 Data Visualization: Plotting feature importances and sales predictions to better understand model behavior.
 
 ✅ Outcome
+
 The trained model provides accurate sales forecasts, helping businesses make data-driven decisions for inventory planning, marketing campaigns, and resource allocation.
 
 📂 Dataset
